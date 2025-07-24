@@ -1,0 +1,50 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #fdf6ec;
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em; /* Larger font for readability */
+}
+
+header {
+  text-align: center;
+  background-color: #ffb347;
+  color: white;
+  padding: 40px 20px;
+}
+
+header img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+section {
+  max-width: 800px;
+  margin: 40px auto; /* Increased spacing between sections */
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+  color: #e67e22;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a.button {
+  display: inline-block;
+  background-color: #e67e22;
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px; /* More touch-friendly */
+  border-radius: 8px;
+  margin-top: 15px; /* Better spacing above button */
+}
