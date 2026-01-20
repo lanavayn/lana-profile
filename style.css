@@ -48,3 +48,23 @@ a.button {
   border-radius: 8px;
   margin-top: 15px; /* Better spacing above button */
 }
+
+.site-footer {
+  margin-top: 60px;
+  padding: 20px 10px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  border-top: 1px solid #ddd;
+}
+
+.site-footer a {
+  color: #666;
+  text-decoration: none;
+  margin: 0 6px;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
